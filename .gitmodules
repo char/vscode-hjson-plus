@@ -1,0 +1,3 @@
+[submodule "textmate-hjson"]
+	path = textmate-hjson
+	url = https://github.com/hjson/textmate-hjson.git
